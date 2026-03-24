@@ -41,7 +41,7 @@ public class Main {
 
     static double average(int[] arr, int n) {
         if (n == 0) return 0;
-        return (double) sum(arr, n) / n;
+        return  (double) sum(arr, n) / n;
     }
 
     // Task 3
